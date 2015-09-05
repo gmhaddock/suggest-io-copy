@@ -1,0 +1,14 @@
+{
+  "name": "suggest-io",
+  "version": "0.0.1",
+  "description": "This is a web application that allows for suggestions a la suggestion box",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
